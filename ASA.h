@@ -1,0 +1,7 @@
+DEF_CMD("erora", errora)
+DEF_CMD("push", push_num)
+DEF_CMD("pop", pop_num)
+DEF_CMD("add", add_num)
+DEF_CMD("sub", sub_num)
+DEF_CMD("mul", mul_num)
+DEF_CMD("divi", divi_num)
